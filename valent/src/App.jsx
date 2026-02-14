@@ -11,7 +11,7 @@ export default function App() {
   const audioRef = useRef(null);
 
   // 🔴 CHANGE THIS NAME
-  const herName = "Ananya ❤️";
+  const herName = "Vidushi ❤️";
 
   /* NO button runs away + YES grows */
   const moveNo = () => {
